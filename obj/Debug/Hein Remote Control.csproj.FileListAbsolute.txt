@@ -1,9 +1,0 @@
-D:\Dev\SharpDevelop Projects\Hein Remote Control\bin\Debug\HeinRemoteControl.exe.config
-D:\Dev\SharpDevelop Projects\Hein Remote Control\bin\Debug\HeinRemoteControl.exe
-D:\Dev\SharpDevelop Projects\Hein Remote Control\bin\Debug\HeinRemoteControl.pdb
-D:\Dev\SharpDevelop Projects\Hein Remote Control\obj\Debug\Hein Remote Control.csprojResolveAssemblyReference.cache
-D:\Dev\SharpDevelop Projects\Hein Remote Control\obj\Debug\Hein_Remot_Control.Form1.resources
-D:\Dev\SharpDevelop Projects\Hein Remote Control\obj\Debug\HeinRemoteControl.Properties.Resources.resources
-D:\Dev\SharpDevelop Projects\Hein Remote Control\obj\Debug\Hein Remote Control.csproj.GenerateResource.Cache
-D:\Dev\SharpDevelop Projects\Hein Remote Control\obj\Debug\HeinRemoteControl.exe
-D:\Dev\SharpDevelop Projects\Hein Remote Control\obj\Debug\HeinRemoteControl.pdb
